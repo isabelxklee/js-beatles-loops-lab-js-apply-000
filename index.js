@@ -24,6 +24,10 @@ while (i < facts.length) {
 function iLoveTheBeatles(number) {
   let beatleLover= [];
 
+do {
+  
+  
+}
   
   
   
