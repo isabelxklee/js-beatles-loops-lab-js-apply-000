@@ -25,7 +25,7 @@ function iLoveTheBeatles(number) {
   let beatleLover= [];
 
 do {
-number++;
+  number++;
 } while (number < 15);
   
   
