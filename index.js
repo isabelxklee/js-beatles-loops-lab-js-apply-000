@@ -27,7 +27,7 @@ function iLoveTheBeatles(number) {
 do {
   
   
-} while (i < number);
+} while (i < 15);
   
   
 }
