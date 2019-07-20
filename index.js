@@ -23,6 +23,7 @@ while (i < facts.length) {
   return johnLennonFacts;
 }
 
+// johnLennonFacts(["foo", "bar"])
 
 
 
