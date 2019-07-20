@@ -20,4 +20,7 @@ while (i < facts.length) {
   return johnLennonFacts;
 }
 
-
+//This is a do-while loop.
+function iLoveTheBeatles() {
+  
+}
