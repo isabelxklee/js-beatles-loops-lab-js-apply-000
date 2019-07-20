@@ -3,11 +3,9 @@ function theBeatlesPlay () {
   const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
   let statement = [];
 
-for (let i = 0; i < 1; i++) {
-  // console.log (musicians[i] + ' plays ' + instruments[i]);
+for (let i = 0; i < musicians.length; i++) {
       statement.push(musicians[i] + ' plays ' + instruments[i]);
    }
-   console.log('statement:', statement);
    return statement;
 }
 
