@@ -7,7 +7,7 @@ for (let i = 0; i < 1; i++) {
    console.log (musicians[i] + ' plays ' + instruments[i]);
       statement.push(musicians[i] + ' plays ' + instruments[i]);
    }
-   return statement;
+   return statement[0];
 }
 
 
