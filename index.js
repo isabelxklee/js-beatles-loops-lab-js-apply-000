@@ -21,6 +21,6 @@ while (i < facts.length) {
 }
 
 //This is a do-while loop.
-function iLoveTheBeatles() {
-  
+function iLoveTheBeatles(number) {
+  let = [];
 }
