@@ -9,7 +9,7 @@ for (let i = 0; i < musicians.length; i++) {
 }
 
 // This is a while loop.
-function johnLennonFacts () {
+function johnLennonFacts (facts) {
   let johnLennonFacts = [];
 
 let i = 0;
